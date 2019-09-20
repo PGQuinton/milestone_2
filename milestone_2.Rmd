@@ -1,0 +1,15 @@
+---
+title: "Milestone 2"
+author: "Pieter Quinton"
+date: "9/20/2019"
+output: html_document
+---
+
+"Analysis of Death Row Inmates in Texas" - Kemi Akenzua  
+
+This powerful project analyzes the final words of death row inmates in Texas through the use of word clouds. Kemi gives the viewer the opportunity to filter the word cloud by sentiment to provide a more complete view of the breakdown of Last Statements. Furthermore, Kemi uses an interactive graph to demonstrate how the general sentiments of statements have changed over time. Kemi also does a strong job providing context for the project by illustrating the disproportionately large percentage of death row exectutions in Texas relative to the rest of the United States through the use of interactive pie charts and histograms. However, I have a couple of minor critiques of the project. First, the coloring scheme on the pie chart varies by year. It would be easier to visually switch between years if the same colors were assigned to the same states rather than switching based on the number of states that executed a death row inmate that year. Additionally, as Kemi acknowledges, the sentiment filter on the word cloud is somewhat ineffective due to the large overlap between sentiments so that the same words appear in each cloud. The clouds could be more effective if the sentiment critieria was more stringent to limit the word overlap. Overall though, it was a strong project that engagingly protrayed the data analyzed.  
+
+"Harvard Volleyball" - Macleane Fields  
+
+This project analyzed play patterns in Harvard women's volleyball games and created plots to display the results. Macleane's project appears to have required extensive data collection because it required her to gather the data of each play throughout the season and format the outcomes in a manner that would allow her to display it in viewer-accessible forms. I appreciate the visual appeal of Macleane's site. It is clear, concise, and easy to navigate. I enjoy being able to see the play breakdown for each game. However, it would be nice to compare multiple games or the entire season in one plot or display to see larger trends. Additionally, Macleane makes an effort to define some of the more technical volleyball terminology which is much appreciated though I think she could have gone a bit further and added a glossary of terms for those viewers without any prior knowledge of the sport of volleyball. 
+
